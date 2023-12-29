@@ -47,4 +47,4 @@ npm run dev
 
 7- **Imagem dos Diagramas**
 
-![Imagem do Diagrama](/SalasIFPI/public/Diagrama.jpg)
+![Imagem do Diagrama](/Trabalho-PW/public/Diagrama.jpg)
