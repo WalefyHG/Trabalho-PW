@@ -1,6 +1,7 @@
 # Sistema de Controle de Sala de Aula README
 
-Este é o README para o Sistema de Controle de Sala de Aula configurado em Laravel com as seguintes instruções.
+Este é o README para o Sistema de Controle de Sala de Aula configurado em Laravel com as seguintes instruções. Criei este projeto para que o usuario administrador consiga cadastrar, editar e deletar os alunos e professores, alem de, gerenciar a parte de salas da instituição para gerenciar a parte de alugar essa sala, onde o professor fica responsável pela sala que está sendo alugada e o administrador tem todo o acesso com elas, alem de, cadastrar, editar e deletar todas as salas.
+
 
 ## Pré-requisitos
 
