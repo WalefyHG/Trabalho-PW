@@ -1,6 +1,6 @@
-# Laravel System README
+# Sistema de Controle de Sala de Aula README
 
-Este é o README para o sistema Laravel configurado com as seguintes instruções.
+Este é o README para o Sistema de Controle de Sala de Aula configurado em Laravel com as seguintes instruções.
 
 ## Pré-requisitos
 
